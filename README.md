@@ -1,7 +1,6 @@
 ## Log_file_Analysis
 # About Project:
-Log files are software-generated files that contain information about processes, activities, and usage patterns of an application, server, or IT system. It includes a history of past activity for all processes, events, and messages along with additional metadata, such as timestamps, to put this information in context. Anomaly detection plays a vital role in managing modern large-scale dispersed systems. Logs, which record system runtime data, are broadly used for anomaly detection.To decrease manual effort, numerous anomaly detection techniques based on automated log analysis are suggested. For small and medium enterprise SME anomaly detection, we recommend three supervised log file analysis techniques. Our intention is to propose the three log file analysis techniques for anomaly identification. 
-
+Graduation project log file analysis. Aided in detecting anomaly users and improving the security of any website. the project was done by using SVM, LR algorithms implemented in python
  
 # Prerequsite: 
 1.You need to install the python modules by using pip install -r requriments.txt                                                                                                                                   
