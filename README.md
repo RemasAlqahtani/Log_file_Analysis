@@ -4,5 +4,5 @@ Log files are software-generated files that contain information about processes,
 
  
 # Prerequsite: 
-1.You need to install the python modules by using pip install -r requriments.txt
+1.You need to install the python modules by using pip install -r requriments.txt                                                                                                                                   
 2.You need to Upload the weblog.csv onto your google drive and kept without folder hirechary. 
